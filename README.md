@@ -1,5 +1,4 @@
-# Police-Officer-DBMS
-Police Database Management System
+# Police Database Management System
 A comprehensive full-stack web application designed to streamline police officer record management and case tracking. Developed using Python and MySQL, this application significantly improves data accuracy and reduces administrative workload.
 
 Key Features :-
